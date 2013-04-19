@@ -1,5 +1,13 @@
-# ct-clug-livecode
+# ct-clug-18may
 
+# Agenda
+1) Introduction to Clojure - Deon
+-- Half hour break --
+2) Live coding session - Deon, Robert
+-- Half hour break --
+3) Dive into Datomic OR split up into groups OR ?
+
+# Live code session
 To live-code at Cape Town Clojure User Group meetup on 18 May
 
 # What will we build?
